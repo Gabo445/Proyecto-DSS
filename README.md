@@ -25,4 +25,4 @@ El proyecto fue desarrollado bajo una arquitectura cliente-servidor utilizando t
 
 # Diagrama Entidad Relación
 
-![Diagrama ER](diagrama-er.png)
+![Diagrama ER](Diagrama_Entidad_Relación.png)
